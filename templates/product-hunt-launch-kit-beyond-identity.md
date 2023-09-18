@@ -10,18 +10,15 @@
 - [review and launch](#review-and-launch)
 
 # link to the product
-
-```
-```
+https://thepasskeyjourney.com
 
 # main info
 
 ## name of the product
 
 > **40 characters max.** Simply the name of the product.
-
 ```
-
+The Passkey Journey
 ```
 
 ## tagline
@@ -29,7 +26,7 @@
 > **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis.
 
 ```
-
+Custom user report to make passkey adoption easy
 ```
 
 ## links
@@ -39,18 +36,18 @@
 > App Store, Google Play, Steam, Amazon…
 
 ```
-
+NA
 ```
 ```
 
 ```
 
-- [ ] Is this an open source project?
+- [ ] Is this an open source project? No
 
 ### Twitter account of the product
 
 ```
-@
+@BI_Developers
 ```
 
 ## description
@@ -58,25 +55,24 @@
 > **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ```
-
+Craft the perfect passwordless experience for your users quickly and confidently. Generate your free passkey report. 
 ```
 
 ## topics
 
 > **Select up to three topics.** [Browse full list here](https://www.producthunt.com/topics).
 
--   
--
--
+-   SaaS
+-   Developer Tools
+-   UX
 
 ## categories
 
 > **Add up to three categories.** [Browse full list here](https://www.producthunt.com/categories). <br />
 > Your product's category should define what the product is, does or what specific problem it solves, rather than feature-related or technology tags.
 
--
--
--
+- Engineering & Development - Authentication & identity
+- Design & Creative - Design resources
 
 # images and media
 
@@ -100,13 +96,13 @@
 > Who worked on this product? You’re free to add anyone who worked on the product with Product Hunt username of Twitter handles.
 
 ```
-
+Jing: https://www.producthunt.com/@jingg_n_tonic
 ```
 ```
-
+Colton: https://www.producthunt.com/@colton_chojnacki
 ```
 ```
-
+Bekki: https://www.producthunt.com/@imbekki
 ```
 
 # extras
@@ -115,7 +111,7 @@
 
 > Optional, but the community really appreciates knowing.
 
--   [ ] **Free** - The product is free to use.
+-   [x] **Free** - The product is free to use.
 -   [ ] **Paid** - The product requires payment and there's no free option.
 -   [ ] **Paid (with a free trial or plan)** - The product requires payment and offers a free trial or version.
 
@@ -134,7 +130,7 @@
 > Sometimes tech media is interested in covering new products on Product Hunt. <br />
 > Can we share your product with press contacts?
 
--   [ ] **Yes**
+-   [x] **Yes**
 -   [ ] **No**
 
 ## comment
@@ -148,4 +144,4 @@ Explain how you dicovered the product. Invite people to join the conversation, a
 
 # review and Launch
 
-- launch date: `YYYY-MM-DD`
+- launch date: `2023-09-25`
